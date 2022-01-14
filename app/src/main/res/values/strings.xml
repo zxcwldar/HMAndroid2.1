@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android2Lesso1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wanna_make_some_notes">Wanna make some notes?</string>
+    <string name="write_down_here_any_text">Write down here any text!</string>
+    <string name="write_here_any_number_buddy">Write here any number,buddy!</string>
+    <string name="write_something_and_it_will_be_shown_in_home_fragment">Write something and it will be shown in home fragment !</string>
+    <string name="would_like_to_apply">Would like to apply ?</string>
+    <string name="notes_maker">Notes Maker</string>
+    <string name="note_list">Note list</string>
+</resources>
